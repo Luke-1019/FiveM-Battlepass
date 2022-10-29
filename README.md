@@ -19,4 +19,3 @@ Damit die Aufgaben funktionieren und man auch Belohnungen kriegt müssen zuerst 
 
 5. Gehe in den Ordner "esx_clotheshop" und dann unter dem Ordner "client" in die "main.lua". Dann gehst du in die Zeile 58 und fügst folgenden Trigger ein:
    TriggerServerEvent('battlepass:addQuest', 10)
-
